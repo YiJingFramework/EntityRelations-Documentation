@@ -6,6 +6,10 @@ YiJingFramework.EntityRelations
    :hidden:
 
    ./EntityCharacteristics.ipynb
+   ./EntityStrings.ipynb
+   ./GuaCharacters.ipynb
+   ./GuaDerivations.ipynb
+   ./WuxingRelations.ipynb
 
 
 YiJingFramework.EntityRelations 是 `YiJingFramework <https://yjfwk.yueyinqiu.top/>`_ 中的一个包。此包提供了一些关于易学实体之间的关系。
